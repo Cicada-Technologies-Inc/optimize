@@ -1,4 +1,4 @@
-module github.com/pa-m/optimize
+module github.com/Cicada-Technologies-Inc/optimize
 
 require (
 	golang.org/x/exp v0.0.0-20240325151524-a685a6edb6d8
